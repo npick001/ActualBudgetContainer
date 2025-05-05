@@ -1,6 +1,6 @@
 # ActualBudget Local Setup
 
-This guide walks you through the process of setting up and running the **ActualBudget** application using Docker in a local environment with WSL (Windows Subsystem for Linux).
+This guide walks you through the process of setting up and running the **ActualBudget** application using Docker in a local environment with WSL (Windows Subsystem for Linux). If there are issues with line closure characters, open the files in VSCode and change the End of Line Sequence from CRLF to LF.
 
 ## Prerequisites
 
