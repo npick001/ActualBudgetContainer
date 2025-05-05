@@ -1,0 +1,14 @@
+# Exclude data files
+actual-data/
+
+# Docker related files
+*.log
+*.pid
+docker-compose.override.yml
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
